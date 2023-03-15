@@ -10,6 +10,10 @@ Now I'm focused on blockchain and it's security auditing for Spearbit, Code4rena
 - Bridges&Widgets for Arbitrum Hackhaton: https://github.com/nicobevilacqua/bridgets-and-widgets
 - GetSponsoreth for Activate x Wormhole Miami: https://github.com/eugenioclrc/getsponsoreth
 
+### Volunteering
+- Secureum
+- DevconVI Bogota
+
 ### 📫 Contact
 Feel free to reach out!
 
