@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Deivitto/Deivitto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 😺 Deivitto
+I'm originally a software engineer that always loved traditional security, in my free time I used to be dedicated to fullstack and cross platform applications, with special love to the UX part and team management, 
 
-Here are some ideas to get you started:
+Now I'm focused on blockchain and it's security auditing for Spearbit, Code4rena, SherlockDeFi and doing some privates audits.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨 Hackhatons
+- SmartCow for ETHBogotá: https://github.com/Deivitto/eth-bogota-hackhaton
+- Bridges&Widgets for Arbitrum Hackhaton: https://github.com/nicobevilacqua/bridgets-and-widgets
+- GetSponsoreth for Activate x Wormhole Miami: https://github.com/eugenioclrc/getsponsoreth
+
+### 📫 Contact
+Feel free to reach out!
+
+[Twitter](https://twitter.com/Deivitto)
