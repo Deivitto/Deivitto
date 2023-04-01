@@ -9,8 +9,8 @@ Now I'm focused on blockchain and it's security auditing for Spearbit, Code4rena
 - SmartCow for ETHBogotá: https://github.com/Deivitto/eth-bogota-hackhaton
 - Bridges&Widgets for Arbitrum Hackhaton: https://github.com/nicobevilacqua/bridgets-and-widgets
 - GetSponsoreth for Activate x Wormhole Miami: https://github.com/eugenioclrc/getsponsoreth
-- ETHPorto -> to be added (spoiler: 3rd place and some bounties)
-- ZK Lisbon -> TBC
+- ETHPorto -> 3rd place https://github.com/luksgrin/topMantle_ETHPorto 
+- ZK Lisbon -> https://github.com/luksgrin/ZKHack_project
 - ETHTokyo -> TBC
 - ETHLisbon -> TBC
 - ETHCC -> TBC
