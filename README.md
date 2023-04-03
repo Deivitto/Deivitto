@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ### 😺 Deivitto
-I'm originally a software engineer wtih specialization in web2 security and system management, in my free time I used to be dedicated to fullstack and cross platform applications, with special love to the UX part, psycology and team management.
+I'm originally a **software engineer** wtih specialization in web2 security and system management, in my free time I used to be dedicated to **fullstack** and **cross platform** applications, with special love to the **UX** part, **psycology** and **team management**.
 
-Now I'm focused on blockchain and it's security auditing for Spearbit, Code4rena, SherlockDeFi and doing some privates audits. Soon Immunefi updates
+Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit**, **Code4rena**, **SherlockDeFi** and doing some privates audits. Next updates: **Immunefi**.
 
 ### 👨 Hackhatons with awards / bounties
 - SmartCow for **ETHBogotá**: https://github.com/Deivitto/eth-bogota-hackhaton
@@ -18,6 +18,7 @@ Now I'm focused on blockchain and it's security auditing for Spearbit, Code4rena
 ### Volunteering
 - Secureum
 - DevconVI Bogota
+- ETHBogota / ETHLatam
 
 ### 📫 Contact
 Feel free to reach out!
