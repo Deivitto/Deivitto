@@ -11,7 +11,7 @@ Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit*
 - GetSponsoreth for **Activate x Wormhole Miami**: https://github.com/eugenioclrc/getsponsoreth
 - TopMantle for **ETHPorto** -> 3rd place https://github.com/luksgrin/topMantle_ETHPorto 
 - ZkKloone for **ZKLisbon** -> https://github.com/luksgrin/ZKHack_project
-- **ETHTokyo** -> TBC
+- **ETHTokyo** -> https://github.com/luksgrin/ETHTokyo_Project
 - **ETHLisbon** -> TBC
 - **ETHCC** -> TBC
 
