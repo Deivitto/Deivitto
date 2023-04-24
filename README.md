@@ -23,6 +23,7 @@ Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit*
 - DevconVI Bogota
 - ETHBogota / ETHLatam
 
+### Audits and Security
 <details>
   <summary>Some things I've done so far at web3 (not in order):</summary>
   
