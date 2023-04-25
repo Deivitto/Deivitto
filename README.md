@@ -16,7 +16,7 @@ Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit*
 - **ETHCC** -> TBC
 
 ### 😔🏆 Hackhatons with no awards / bounties (but with more knowledge than before 🤪)
-- PlayProtect **ETHTokyo** -> https://github.com/luksgrin/ETHTokyo_Project
+- PlayProtect for **ETHTokyo** -> https://github.com/luksgrin/ETHTokyo_Project
 
 ### Volunteering
 - Secureum
