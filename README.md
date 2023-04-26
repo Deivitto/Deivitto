@@ -31,7 +31,7 @@ Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit*
   - Secureum Bootcamp from Epoch0 - EpochInfinite
   - Top 16–32 at some of Secureum Races -> CAREs
   - Top 150 at Code4rena 2022 (starting at July aprox)
-  - Top 100 at Sherlock (starting october/november)
+  - Top 100 at Sherlock 2022 (starting october/november)
   - Joined Spearbit at December 2022
   - Read more reports and medium posts that I can count
   - Wrote my own basic static analyzer + tons of scripts to work faster
