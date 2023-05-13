@@ -12,7 +12,7 @@ Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit*
 - TopMantle for **ETHPorto** -> 3rd place https://github.com/luksgrin/topMantle_ETHPorto 
 - ZkKloone for **ZKLisbon** -> https://github.com/luksgrin/ZKHack_project
 
-- **ETHLisbon** -> TBC
+- **ETHLisbon** -> https://github.com/luksgrin/ETHLisbon_project
 - **ETHCC** -> TBC
 
 ### 😔🏆 Hackhatons with no awards / bounties (but with more knowledge than before 🤪)
