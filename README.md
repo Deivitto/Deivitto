@@ -45,6 +45,9 @@ Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit*
 
 </details>
 
+### Articles & Posts
+- How to play as a JSR at Spearbit: [medium](https://medium.com/@Deivitto/how-to-play-as-a-jsr-at-spearbit-c98a46484a1), [hackmd](https://hackmd.io/@Deivitto/how-to-play-as-a-JSR-at-Spearbit)
+
 ### 📫 Contact
 Feel free to reach out!
 
