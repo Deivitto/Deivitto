@@ -24,6 +24,14 @@ Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit*
 - ETHBogota / ETHLatam
 
 ### Audits / Security / Web3
+- Public audits:
+  - Spearbit
+    - https://github.com/spearbit/portfolio/blob/master/pdfs/SudoswapLSSVM2-Spearbit-Security-Review.pdf
+    - TBA
+    - TBA
+    - TBA
+
+- Contests at C4 / Sherlock: Look for it at audit-hero.com or solidit.xyz
 <details>
   <summary>Some things I've done so far at web3 (not in order):</summary>
   
