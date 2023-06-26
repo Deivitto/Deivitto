@@ -27,9 +27,9 @@ Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit*
 - Public audits:
   - Spearbit
     - Sudoswap V2: https://github.com/spearbit/portfolio/blob/master/pdfs/SudoswapLSSVM2-Spearbit-Security-Review.pdf
-    - O: TBA
-    - R: TBA
-    - E: TBA
+    - O: TBD
+    - R: TBD
+    - E: TBD
 
 - Contests at C4 / Sherlock: Look for it at audit-hero.com or solidit.xyz
 <details>
