@@ -22,6 +22,7 @@ Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit*
 - Secureum
 - DevconVI Bogota
 - ETHBogota / ETHLatam
+- ETHBarcelona 2023
 
 ### Audits / Security / Web3
 - Public audits:
