@@ -58,7 +58,7 @@ Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit*
 - How to play as a JSR at Spearbit: [medium](https://medium.com/@Deivitto/how-to-play-as-a-jsr-at-spearbit-c98a46484a1), [hackmd](https://hackmd.io/@Deivitto/how-to-play-as-a-JSR-at-Spearbit)
 
 ### Knowledge I just learn to be a degen
-- Solidity, yul, Swift, C#, C++, C, JS, TS, py, sh, bat, SQL, MySQL, sqlite, nosql, frontend frameworks, some backend server stuff, cross platform mobile apps, scrapping...
+- Solidity, yul, Swift, C#, C++, C, JS, TS, py, sh, bat, Docker, SQL, MySQL, sqlite, nosql, frontend frameworks, some backend server stuff, cross platform mobile apps, scrapping...
 
 ### 📫 Contact
 Feel free to reach out! [Twitter](https://twitter.com/Deivitto)
