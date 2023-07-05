@@ -33,6 +33,8 @@ Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit*
     - E: TBD
 
 - Contests at C4 / Sherlock: Look for it at audit-hero.com or solidit.xyz
+- Or check out some profile:
+  - https://code4rena.com/@Deivitto   
 <details>
   <summary>Some things I've done so far at web3 (not in order):</summary>
   
