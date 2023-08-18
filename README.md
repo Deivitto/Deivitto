@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 😺 Deivitto
-I'm originally a **software engineer** wtih specialization in web2 security and system management, in my free time I used to be dedicated to **fullstack** and **cross platform** applications, with special love for **UX**, **psycology** and **team management**.
+I'm originally a **software engineer** with specialization in web2 security and system management, in my free time I used to be dedicated to **fullstack** and **cross platform** applications, with special love for **UX**, **psycology** and **team management**.
 
 Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit**, **Code4rena**, **SherlockDeFi** and doing some privates audits. Next updates: **Immunefi**.
 
@@ -11,9 +11,8 @@ Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit*
 - GetSponsoreth for **Activate x Wormhole Miami**: https://github.com/eugenioclrc/getsponsoreth
 - TopMantle for **ETHPorto** -> 3rd place https://github.com/luksgrin/topMantle_ETHPorto 
 - ZkKloone for **ZKLisbon** -> https://github.com/luksgrin/ZKHack_project
-
 - **ETHLisbon** -> https://github.com/luksgrin/ETHLisbon_project
-- **ETHCC** -> TBC
+- NATIVO for **SozuHaus HAckhaton** -> TBC
 
 ### 😔🏆 Hackhatons with no awards / bounties (but with more knowledge than before 🤪)
 - PlayProtect for **ETHTokyo** -> https://github.com/luksgrin/ETHTokyo_Project
@@ -27,10 +26,10 @@ Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit*
 ### Audits / Security / Web3
 - Public audits:
   - Spearbit
-    - Sudoswap V2: https://github.com/spearbit/portfolio/blob/master/pdfs/SudoswapLSSVM2-Spearbit-Security-Review.pdf
-    - O: TBD
-    - R: TBD
-    - E: TBD
+    - [Sudoswap V2](https://github.com/spearbit/portfolio/blob/master/pdfs/SudoswapLSSVM2-Spearbit-Security-Review.pdf)
+    - OpenSea Pro: TBD
+    - Redacted Cartel: TBD
+    - Element Finance: TBD
 
 - Contests at C4 / Sherlock: Look for it at audit-hero.com or solidit.xyz
 - Or check out some profile:
@@ -57,7 +56,8 @@ Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit*
 </details>
 
 ### Articles & Posts
-- How to play as a JSR at Spearbit: [medium](https://medium.com/@Deivitto/how-to-play-as-a-jsr-at-spearbit-c98a46484a1), [hackmd](https://hackmd.io/@Deivitto/how-to-play-as-a-JSR-at-Spearbit)
+- How to play as a JSR at Spearbit: [hackmd](https://hackmd.io/@Deivitto/how-to-play-as-a-JSR-at-Spearbit), [medium](https://medium.com/@Deivitto/how-to-play-as-a-jsr-at-spearbit-c98a46484a1)
+- The Auditor Toolbox: [hackmd]([https://t.co/hFan0SdT2o](https://hackmd.io/@Deivitto/The-Auditor-Toolbox)), [medium](https://medium.com/@Deivitto/the-auditor-toolbox-840848d42109)
 
 ### Some languages and stuff I play with
 - Solidity, yul, Swift, C#, C++, C, JS, TS, py, sh, bat, Docker, SQL, MySQL, sqlite, nosql, frontend frameworks, some backend server stuff, cross platform mobile apps, scrapping...
