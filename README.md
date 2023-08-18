@@ -57,7 +57,7 @@ Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit*
 
 ### Articles & Posts
 - How to play as a JSR at Spearbit: [hackmd](https://hackmd.io/@Deivitto/how-to-play-as-a-JSR-at-Spearbit), [medium](https://medium.com/@Deivitto/how-to-play-as-a-jsr-at-spearbit-c98a46484a1)
-- The Auditor Toolbox: [hackmd]([https://t.co/hFan0SdT2o](https://hackmd.io/@Deivitto/The-Auditor-Toolbox)), [medium](https://medium.com/@Deivitto/the-auditor-toolbox-840848d42109)
+- The Auditor Toolbox: [hackmd]((https://hackmd.io/@Deivitto/The-Auditor-Toolbox)), [medium](https://medium.com/@Deivitto/the-auditor-toolbox-840848d42109)
 
 ### Some languages and stuff I play with
 - Solidity, yul, Swift, C#, C++, C, JS, TS, py, sh, bat, Docker, SQL, MySQL, sqlite, nosql, frontend frameworks, some backend server stuff, cross platform mobile apps, scrapping...
