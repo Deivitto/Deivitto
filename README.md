@@ -5,32 +5,15 @@ I'm originally a **software engineer** with specialization in web2 security and 
 
 Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit**, **Code4rena**, **SherlockDeFi** and doing some privates audits. Next updates: **Immunefi**.
 
-### 👨🏆 Hackhatons with awards / bounties
-- SmartCow for **ETHBogotá**: https://github.com/Deivitto/eth-bogota-hackhaton
-- Bridges&Widgets for **Arbitrum Hackhaton**: https://github.com/nicobevilacqua/bridgets-and-widgets
-- GetSponsoreth for **Activate x Wormhole Miami**: https://github.com/eugenioclrc/getsponsoreth
-- TopMantle for **ETHPorto** -> 3rd place https://github.com/luksgrin/topMantle_ETHPorto 
-- ZkKloone for **ZKLisbon** -> https://github.com/luksgrin/ZKHack_project
-- **ETHLisbon** -> https://github.com/luksgrin/ETHLisbon_project
-- NATIVO for **SozuHaus HAckhaton** ->
-
-### 😔🏆 Hackhatons with no awards / bounties (but with more knowledge than before 🤪)
-- PlayProtect for **ETHTokyo** -> https://github.com/luksgrin/ETHTokyo_Project
-
-### Volunteering
-- Secureum
-- DevconVI Bogota
-- ETHBogota / ETHLatam
-- ETHBarcelona 2023
-
 ### Audits / Security / Web3
-- Public audits:
-  - Spearbit
-    - [Sudoswap V2](https://github.com/spearbit/portfolio/blob/master/pdfs/SudoswapLSSVM2-Spearbit-Security-Review.pdf)
-    - OpenSea Pro: TBD
-    - Redacted Cartel: TBD
-    - Element Finance: TBD
 
+#### [Spearbit Labs 🐱‍💻](https://spearbit.com/)
+  - [Sudoswap V2](https://github.com/spearbit/portfolio/blob/master/pdfs/SudoswapLSSVM2-Spearbit-Security-Review.pdf)
+  - OpenSea Pro: TBD
+  - Redacted Cartel: TBD
+  - Element Finance: TBD
+
+#### Contests
 - Contests at C4 / Sherlock: Look for it at audit-hero.com or solidit.xyz
 - Or check out some profile:
   - https://code4rena.com/@Deivitto   
@@ -58,6 +41,26 @@ Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit*
 ### Articles & Posts
 - How to play as a JSR at Spearbit: [hackmd](https://hackmd.io/@Deivitto/how-to-play-as-a-JSR-at-Spearbit), [medium](https://medium.com/@Deivitto/how-to-play-as-a-jsr-at-spearbit-c98a46484a1)
 - The Auditor Toolbox: [hackmd](https://hackmd.io/@Deivitto/The-Auditor-Toolbox), [medium](https://medium.com/@Deivitto/the-auditor-toolbox-840848d42109)
+
+### 👨🏆 Hackhatons with awards / bounties
+- SmartCow for **ETHBogotá**: https://github.com/Deivitto/eth-bogota-hackhaton
+- Bridges&Widgets for **Arbitrum Hackhaton**: https://github.com/nicobevilacqua/bridgets-and-widgets
+- GetSponsoreth for **Activate x Wormhole Miami**: https://github.com/eugenioclrc/getsponsoreth
+- TopMantle for **ETHPorto** -> 3rd place https://github.com/luksgrin/topMantle_ETHPorto 
+- ZkKloone for **ZKLisbon** -> https://github.com/luksgrin/ZKHack_project
+- **ETHLisbon** -> https://github.com/luksgrin/ETHLisbon_project
+- NATIVO for **SozuHaus HAckhaton** ->
+
+### 😔🏆 Hackhatons with no awards / bounties (but with more knowledge than before 🤪)
+- PlayProtect for **ETHTokyo** -> https://github.com/luksgrin/ETHTokyo_Project
+
+### Volunteering
+- Secureum
+- DevconVI Bogota
+- ETHBogota / ETHLatam
+- ETHBarcelona 2023
+
+
 
 ### Some languages and stuff I play with
 
