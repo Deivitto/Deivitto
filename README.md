@@ -28,6 +28,7 @@ Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit*
   - Joined Spearbit at December 2022
   - Read more reports and medium posts that I can count
   - Wrote my own basic static analyzer + tons of scripts to work faster
+  - Build the [auditor-docker](https://github.com/Deivitto/auditor-docker)
 - CTF
   - DefiSummit CTF solved
   - CaptureTheEther CTF solved
