@@ -1,4 +1,4 @@
-# 😺 Deivitto
+# 😇 Deivitto
 I'm originally a **software engineer** with specialization in web2 security and system management, in my free time I used to be dedicated to **fullstack** and **cross platform** applications, with special love for **UX**, **psychology** and **team management**.
 
 Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit**, **Code4rena**, **SherlockDeFi**, **Codehawks** and doing some privates audits. Also watching code at **Immunefi**.
