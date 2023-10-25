@@ -1,5 +1,5 @@
 # 😇 Deivitto
-I'm originally a **software engineer** with specialization in web2 security and system management, in my free time I used to be dedicated to **fullstack** and **cross platform** applications, with special love for **UX**, **psychology** and **team management**. Writing books is also one of my passions.
+I'm originally a **software engineer** with specialization in web2 security and system management, in my free time I used to be dedicated to **fullstack** and **cross platform** applications, with special love for **UX**, **psychology** and **team management**. Writing is also one of my passions.
 
 Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit**, **Code4rena**, **SherlockDeFi**, **Codehawks** and doing some privates audits. Also watching code at **Immunefi**.
 
@@ -71,5 +71,17 @@ Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit*
 ## 📫 Contact
 Feel free to [request an audit](https://cantina.xyz/u/Deivitto) with me and other profesionals at Spearbit and Cantina
 
-[![Twitter](https://img.shields.io/badge/-twitter-1D9BF0?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/Deivitto) [![Cantina.xyz](https://img.shields.io/badge/-cantina.xyz-FFFFFF?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPCEtLSBzYW1wbGUgcmVjdGFuZ2xlIC0tPgo8c3ZnIHdpZHRoPSI1MCIgaGVpZ2h0PSI1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8Zz48cGF0aCBkPSJNMjMuOTk4NCAwQzE3LjU5NyAwIDExLjU2NTMgMi41NzM3MyA3LjAxODM1IDcuMjQ2MDNDMi40OTEyNCAxMS44OTUyIDAgMTguMDQ5MSAwIDI0LjU3NThWNDUuMDAwNkMwIDQ2LjY1NyAxLjM0Mjk2IDQ4IDIuOTk5MzggNDhDNC42NTU4MSA0OCA1Ljk5ODc2IDQ2LjY1NyA1Ljk5ODc2IDQ1LjAwMDZWMjQuNTc1OEM1Ljk5ODc2IDE5LjYyMyA3Ljg4NjE2IDE0Ljk1NCAxMS4zMTc4IDExLjQzQzE0LjcyNjMgNy45MjkwNiAxOS4yMzA0IDUuOTk4NzYgMjMuOTk4NCA1Ljk5ODc2QzI4Ljc2NjMgNS45OTg3NiAzMy4yNzA0IDcuOTI1NzYgMzYuNjc4OSAxMS40M0M0MC4xMDcyIDE0Ljk1NCA0MS45OTc5IDE5LjYyMyA0MS45OTc5IDI0LjU3NThWNDUuMDAwNkM0MS45OTc5IDQ2LjY1NyA0My4zNDA5IDQ4IDQ0Ljk5NzMgNDhDNDYuNjUzNyA0OCA0Ny45OTY3IDQ2LjY1NyA0Ny45OTY3IDQ1LjAwMDZWMjQuNTc1OEM0Ny45OTY3IDE4LjA0OTEgNDUuNTA1NSAxMS44OTUyIDQwLjk3ODMgNy4yNDYwM0MzNi40MzQ3IDIuNTczNzMgMzAuNDAzIDAgMjMuOTk4NCAwWiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg%2BPHBhdGggZD0iTTIzLjk5ODMgMjMuOTk4NEMyMi4zNDE5IDIzLjk5ODQgMjAuOTk5IDI1LjM0MTMgMjAuOTk5IDI2Ljk5NzdWNDQuOTk3M0MyMC45OTkgNDYuNjUzNyAyMi4zNDE5IDQ3Ljk5NjcgMjMuOTk4MyA0Ny45OTY3QzI1LjY1NDggNDcuOTk2NyAyNi45OTc3IDQ2LjY1MzcgMjYuOTk3NyA0NC45OTczVjI2Ljk5NzdDMjYuOTk3NyAyNS4zNDEzIDI1LjY1NDggMjMuOTk4NCAyMy45OTgzIDIzLjk5ODRaIiBmaWxsPSIjZmE1ZTA2Ij48L3BhdGg%2BPC9nPgo8L3N2Zz4%3D&style=for-the-badge)](https://cantina.xyz/u/Deivitto)
+[![Twitter](https://img.shields.io/badge/-twitter-1D9BF0?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/Deivitto) [![Cantina.xyz](https://img.shields.io/badge/-cantina.xyz-FFFFFF?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPCEtLSBzYW1wbGUgcmVjdGFuZ2xlIC0tPgo8c3ZnIHdpZHRoPSI1MCIgaGVpZ2h0PSI1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8Zz48cGF0aCBkPSJNMjMuOTk4NCAwQzE3LjU5NyAwIDExLjU2NTMgMi41NzM3MyA3LjAxODM1IDcuMjQ2MDNDMi40OTEyNCAxMS44OTUyIDAgMTguMDQ5MSAwIDI0LjU3NThWNDUuMDAwNkMwIDQ2LjY1NyAxLjM0Mjk2IDQ4IDIuOTk5MzggNDhDNC42NTU4MSA0OCA1Ljk5ODc2IDQ2LjY1NyA1Ljk5ODc2IDQ1LjAwMDZWMjQuNTc1OEM1Ljk5ODc2IDE5LjYyMyA3Ljg4NjE2IDE0Ljk1NCAxMS4zMTc4IDExLjQzQzE0LjcyNjMgNy45MjkwNiAxOS4yMzA0IDUuOTk4NzYgMjMuOTk4NCA1Ljk5ODc2QzI4Ljc2NjMgNS45OTg3NiAzMy4yNzA0IDcuOTI1NzYgMzYuNjc4OSAxMS40M0M0MC4xMDcyIDE0Ljk1NCA0MS45OTc5IDE5LjYyMyA0MS45OTc5IDI0LjU3NThWNDUuMDAwNkM0MS45OTc5IDQ2LjY1NyA0My4zNDA5IDQ4IDQ0Ljk5NzMgNDhDNDYuNjUzNyA0OCA0Ny45OTY3IDQ2LjY1NyA0Ny45OTY3IDQ1LjAwMDZWMjQuNTc1OEM0Ny45OTY3IDE4LjA0OTEgNDUuNTA1NSAxMS44OTUyIDQwLjk3ODMgNy4yNDYwM0MzNi40MzQ3IDIuNTczNzMgMzAuNDAzIDAgMjMuOTk4NCAwWiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg%2BPHBhdGggZD0iTTIzLjk5ODMgMjMuOTk4NEMyMi4zNDE5IDIzLjk5ODQgMjAuOTk5IDI1LjM0MTMgMjAuOTk5IDI2Ljk5NzdWNDQuOTk3M0MyMC45OTkgNDYuNjUzNyAyMi4zNDE5IDQ3Ljk5NjcgMjMuOTk4MyA0Ny45OTY3QzI1LjY1NDggNDcuOTk2NyAyNi45OTc3IDQ2LjY1MzcgMjYuOTk3NyA0NC45OTczVjI2Ljk5NzdDMjYuOTk3NyAyNS4zNDEzIDI1LjY1NDggMjMuOTk4NCAyMy45OTgzIDIzLjk5ODRaIiBmaWxsPSIjZmE1ZTA2Ij48L3BhdGg%2BPC9nPgo8L3N2Zz4%3D&style=for-the-badge)](https://cantina.xyz/u/Deivitto) 
 
+<!--[![Github](https://img.shields.io/badge/-github-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Deivitto) 
+Hello there! My name is David, but on the internet I go as Deivitto. I'm a Software Engineer currently working daily at web3 Security and at building some side projects just for passion and curiosity. I use to spend time in maths and at trading. Also into UX.
+ 
+When it comes to problems, I like diving deep into things to understand them, also typically testing limits by making things not to work. 
+ 
+I'm currently building some projects related to tooling such as the [Auditor-Toolbox](https://github.com/Deivitto/auditor-docker). For any thing related to it, feel free to reach me out! 😊 
+ 
+For more details regarding my career, check out: 
+ 
+ [![Github](https://img.shields.io/badge/-github-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Deivitto) 
+
+-->
