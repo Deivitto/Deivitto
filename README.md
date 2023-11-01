@@ -13,6 +13,7 @@ Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit*
   - OpenSea Pro: TBD
   - Redacted Cartel: TBD
   - Element Finance: TBD
+  - TBA: TBD
 
 ### 🔎🐛 Contests
 - Contests at C4 / Sherlock / CodeHawks: Look for it at audit-hero.com or solidit.xyz
@@ -50,14 +51,18 @@ Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit*
 
 ## 🏆 Hackathons
 
+### Judge
+- [Block Change Hackathon](https://icoholder.com/es/events/block-change-hackathon-27896)
+
 ### 🏅 Hackathons with awards / bounties
 - SmartCow for **ETHBogotá**: https://github.com/Deivitto/eth-bogota-hackhaton
 - Bridges&Widgets for **Arbitrum Hackhaton**: https://github.com/nicobevilacqua/bridgets-and-widgets
 - GetSponsoreth for **Activate x Wormhole Miami**: https://github.com/eugenioclrc/getsponsoreth
-- TopMantle for **ETHPorto** -> 3rd place https://github.com/luksgrin/topMantle_ETHPorto 
-- ZkKloone for **ZKLisbon** -> https://github.com/luksgrin/ZKHack_project
-- **ETHLisbon** -> https://github.com/luksgrin/ETHLisbon_project
-- NATIVO for **SozuHaus Hackathon** ->
+- TopMantle for **ETHPorto**: 3rd place https://github.com/luksgrin/topMantle_ETHPorto 
+- ZkKloone for **ZKLisbon**: https://github.com/luksgrin/ZKHack_project
+- **ETHLisbon**: https://github.com/luksgrin/ETHLisbon_project
+- NATIVO for **SozuHaus Hackathon**: TBD
+- **ETHIstambul**: TBA
 
 ### !🏅 Hackathons with no awards / bounties (but with more knowledge than before 🤪)
 - PlayProtect for **ETHTokyo** -> https://github.com/luksgrin/ETHTokyo_Project
