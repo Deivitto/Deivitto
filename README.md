@@ -27,6 +27,10 @@ Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit*
 <details>
   <summary>Some other things I've done so far at web3 (not in order):</summary>
   
+- Talks:
+    - TrustX Istambul: Auditor Docker
+    - Paris Logos: Guardians of the blockchain
+    - OpenSense: Auditor Docker
 - Audits / Security related
   - Secureum Bootcamp from Epoch0 - EpochInfinite
   - Top 16–32 at some of Secureum Races -> CAREs
@@ -72,6 +76,7 @@ Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit*
 - DevconVI Bogota
 - ETHBogota / ETHLatam
 - ETHBarcelona 2023
+- TrustX Istambul
 
 ## ⚙️ Some languages and stuff I play with
 
