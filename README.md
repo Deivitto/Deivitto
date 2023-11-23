@@ -70,7 +70,7 @@ Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit*
 - GaslessPOAPs for **ETHIstambul**: https://github.com/Deivitto/gassless-poaps
 
 ### !🏅 Hackathons with no awards / bounties (but with more knowledge than before 🤪)
-- PlayProtect for **ETHTokyo** -> https://github.com/luksgrin/ETHTokyo_Project
+- PlayProtect for **ETHTokyo**: https://github.com/luksgrin/ETHTokyo_Project
 
 ## ☕ Volunteering
 - Secureum
