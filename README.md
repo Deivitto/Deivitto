@@ -67,7 +67,7 @@ Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit*
 - ZkKloone for **ZKLisbon**: https://github.com/luksgrin/ZKHack_project
 - **ETHLisbon**: https://github.com/luksgrin/ETHLisbon_project
 - NATIVO for **SozuHaus Hackathon**: TBD
-- **ETHIstambul**: https://github.com/Deivitto/gassless-poaps
+- GaslessPOAPs for **ETHIstambul**: https://github.com/Deivitto/gassless-poaps
 
 ### !🏅 Hackathons with no awards / bounties (but with more knowledge than before 🤪)
 - PlayProtect for **ETHTokyo** -> https://github.com/luksgrin/ETHTokyo_Project
