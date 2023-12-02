@@ -3,10 +3,10 @@ I'm originally a **software engineer** with specialization in web2 security and 
 
 Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit**, **Code4rena**, **SherlockDeFi**, **Codehawks** and doing some privates audits. Also watching code at **Immunefi**.
 
-## 🖊️ Articles & Posts
+## 🖊️ Articles & educative content
 - How to play as a JSR at Spearbit: [hackmd](https://hackmd.io/@Deivitto/how-to-play-as-a-JSR-at-Spearbit), [medium](https://medium.com/@Deivitto/how-to-play-as-a-jsr-at-spearbit-c98a46484a1)
 - The Auditor Toolbox: [hackmd](https://hackmd.io/@Deivitto/The-Auditor-Toolbox), [medium](https://medium.com/@Deivitto/the-auditor-toolbox-840848d42109)
-
+- [The Secureum Book](https://github.com/secureum/Secureum-Book)
 ## 🕵️ Audits / Security / Web3
 ### [Spearbit Labs 🐱‍💻](https://spearbit.com/)
   - [Sudoswap V2](https://github.com/spearbit/portfolio/blob/master/pdfs/SudoswapLSSVM2-Spearbit-Security-Review.pdf)
@@ -32,6 +32,8 @@ Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit*
     - TrustX Istambul: Auditor Docker
     - Paris Logos: Guardians of the blockchain
     - OpenSense: Auditor Docker
+- Book:
+  - Editing [Secureum Gitbook](https://github.com/secureum/Secureum-Book)       
 - Audits / Security related
   - Secureum Bootcamp from Epoch0 - EpochInfinite
   - Top 16–32 at some of Secureum Races -> CAREs
@@ -49,14 +51,14 @@ Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit*
   - CaptureTheEther CTF solved
   - Studied typical CTF writeups (Ethernaut, Paradigm...)
 - Hackathons
-  - 6 Hackathons with awards 
+  - 8 Hackathons with awards 
   - 1 Hackathon not awarded
 
 </details>
 
 ## 🏆 Hackathons
 
-### Judge
+### 🧑‍⚖️ Judge
 - [Block Change Hackathon](https://icoholder.com/es/events/block-change-hackathon-27896)
 
 ### 🏅 Hackathons with awards / bounties
@@ -72,8 +74,8 @@ Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit*
 ### !🏅 Hackathons with no awards / bounties (but with more knowledge than before 🤪)
 - PlayProtect for **ETHTokyo**: https://github.com/luksgrin/ETHTokyo_Project
 
-## ☕ Volunteering
-- Secureum
+## ☕ Organizer / Volunteering 
+- Activate x Wormhole Miami Secureum a-MAZE-X CTF & Workshop
 - DevconVI Bogota
 - ETHBogota / ETHLatam
 - ETHBarcelona 2023
