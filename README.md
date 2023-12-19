@@ -1,7 +1,7 @@
 # 😇 Deivitto
-I'm originally a **software engineer** with specialization in web2 security and system management, in my free time I used to be dedicated to **fullstack** and **cross platform** applications, with special love for **UX**, **psychology** and **team management**. Writing is also one of my passions.
+I'm originally a **software engineer** with specialization in web2 security and system management. I created some **fullstack** and **cross platform** applications. I also developed special love for **UX**, **psychology** and **team management** as for my path. Writing is also one of my passions.
 
-Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit**, **Code4rena**, **SherlockDeFi**, **Codehawks** and doing some privates audits. Also watching code at **Immunefi**.
+Now I'm focused on **blockchain** and its **security**, mostly auditing for **Spearbit** & **Cantina**. In my free time, I may do some **Code4rena**, **SherlockDeFi**, **Codehawks**, private audit or just check code at **Immunefi** for some bug.
 
 ## 🖊️ Articles & educative content
 - How to play as a JSR at Spearbit: [hackmd](https://hackmd.io/@Deivitto/how-to-play-as-a-JSR-at-Spearbit), [medium](https://medium.com/@Deivitto/how-to-play-as-a-jsr-at-spearbit-c98a46484a1)
