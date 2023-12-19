@@ -7,7 +7,7 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
 ## 🖊️ Articles & educative content
 - How to play as a JSR at Spearbit: [hackmd](https://hackmd.io/@Deivitto/how-to-play-as-a-JSR-at-Spearbit), [medium](https://medium.com/@Deivitto/how-to-play-as-a-jsr-at-spearbit-c98a46484a1)
 - The Auditor Toolbox: [hackmd](https://hackmd.io/@Deivitto/The-Auditor-Toolbox), [medium](https://medium.com/@Deivitto/the-auditor-toolbox-840848d42109)
-- [The Secureum Book](https://github.com/secureum/Secureum-Book)
+- Co-editor of [The Secureum Book](https://github.com/secureum/Secureum-Book)
 ## 🕵️ Audits / Security / Web3
 ### [Spearbit Labs 🐱‍💻](https://spearbit.com/)
   - [Sudoswap V2](https://github.com/spearbit/portfolio/blob/master/pdfs/SudoswapLSSVM2-Spearbit-Security-Review.pdf)
