@@ -32,13 +32,42 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
     - [C4-0xPanas](https://code4rena.com/@0xPanas)
     - [C4-SleepingBugs](https://code4rena.com/@SleepingBugs)
 
-### Talks
+## 🗣️ Talks
 - TrustX Istambul: [Auditor Docker](https://www.youtube.com/watch?v=QQCE4mOqGi0)
 - Paris Logos: Guardians of the blockchain
 - OpenSense: Auditor Docker
 
+## 🛠️ Building / maintening
+- [auditor-docker](https://github.com/Deivitto/auditor-docker)
+
+## 🏆 Hackathons
+
+### 🧑‍⚖️ Judge
+- [Block Change Hackathon](https://icoholder.com/es/events/block-change-hackathon-27896)
+
+### 🏅 Hackathons with awards / bounties
+- SmartCow for **ETHBogotá**: https://github.com/Deivitto/eth-bogota-hackhaton
+- Bridges&Widgets for **Arbitrum Hackhaton**: https://github.com/nicobevilacqua/bridgets-and-widgets
+- GetSponsoreth for **Activate x Wormhole Miami**: https://github.com/eugenioclrc/getsponsoreth
+- TopMantle for **ETHPorto**: 3rd place https://github.com/luksgrin/topMantle_ETHPorto 
+- ZkKloone for **ZKLisbon**: https://github.com/luksgrin/ZKHack_project
+- **ETHLisbon**: https://github.com/luksgrin/ETHLisbon_project
+- NATIVO for **SozuHaus Hackathon**
+- GaslessPOAPs for **ETHIstambul**: https://github.com/Deivitto/gassless-poaps
+
+### !🏅 Hackathons with no awards / bounties (but with more knowledge than before 🤪)
+- PlayProtect for **ETHTokyo**: https://github.com/luksgrin/ETHTokyo_Project
+
+## ☕ Organizer / Volunteering 
+- Activate x Wormhole Miami Secureum a-MAZE-X CTF & Workshop
+- DevconVI Bogota
+- ETHBogota / ETHLatam
+- ETHBarcelona 2023
+- TrustX Istambul
+
+## 📦 Other Stuff
 <details>
-  <summary>Some other things I've done so far at web3 (not in order):</summary>
+  <summary>A list of things done at the space:</summary>
   
 - Talks:
     - TrustX Istambul: [Auditor Docker](https://www.youtube.com/watch?v=QQCE4mOqGi0)
@@ -67,31 +96,6 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
   - 1 Hackathon not awarded
 
 </details>
-
-## 🏆 Hackathons
-
-### 🧑‍⚖️ Judge
-- [Block Change Hackathon](https://icoholder.com/es/events/block-change-hackathon-27896)
-
-### 🏅 Hackathons with awards / bounties
-- SmartCow for **ETHBogotá**: https://github.com/Deivitto/eth-bogota-hackhaton
-- Bridges&Widgets for **Arbitrum Hackhaton**: https://github.com/nicobevilacqua/bridgets-and-widgets
-- GetSponsoreth for **Activate x Wormhole Miami**: https://github.com/eugenioclrc/getsponsoreth
-- TopMantle for **ETHPorto**: 3rd place https://github.com/luksgrin/topMantle_ETHPorto 
-- ZkKloone for **ZKLisbon**: https://github.com/luksgrin/ZKHack_project
-- **ETHLisbon**: https://github.com/luksgrin/ETHLisbon_project
-- NATIVO for **SozuHaus Hackathon**
-- GaslessPOAPs for **ETHIstambul**: https://github.com/Deivitto/gassless-poaps
-
-### !🏅 Hackathons with no awards / bounties (but with more knowledge than before 🤪)
-- PlayProtect for **ETHTokyo**: https://github.com/luksgrin/ETHTokyo_Project
-
-## ☕ Organizer / Volunteering 
-- Activate x Wormhole Miami Secureum a-MAZE-X CTF & Workshop
-- DevconVI Bogota
-- ETHBogota / ETHLatam
-- ETHBarcelona 2023
-- TrustX Istambul
 
 ## ⚙️ Some languages and stuff I play with
 
