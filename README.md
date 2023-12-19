@@ -27,6 +27,7 @@ Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit*
   - [Spearbit / Cantina](https://cantina.xyz/u/Deivitto)
   - [Code4rena](https://code4rena.com/@Deivitto)
   - [Sherlock](https://audits.sherlock.xyz/watson/Deivitto)
+  - [Codehawks](https://www.codehawks.com/profile/cll02r3vz000gl108uj65hvg6)
   - Team profiles:
     - [C4-0xPanas](https://code4rena.com/@0xPanas)
     - [C4-SleepingBugs](https://code4rena.com/@SleepingBugs)
@@ -34,7 +35,7 @@ Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit*
   <summary>Some other things I've done so far at web3 (not in order):</summary>
   
 - Talks:
-    - TrustX Istambul: Auditor Docker
+    - TrustX Istambul: [Auditor Docker](https://www.youtube.com/watch?v=QQCE4mOqGi0)
     - Paris Logos: Guardians of the blockchain
     - OpenSense: Auditor Docker
 - Book:
