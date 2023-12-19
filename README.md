@@ -13,7 +13,7 @@ Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit*
   - OpenSea Pro
   - Redacted Cartel
   - Element Finance
-  - Axiom
+  - Axiom V2
   - [Sphinx](https://github.com/spearbit/portfolio/blob/master/pdfs/Sphinx-Spearbit-Security-Review.pdf)
   - TBA
   - TBA 
