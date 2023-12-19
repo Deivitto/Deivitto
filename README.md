@@ -1,4 +1,4 @@
-# 😇 Deivitto
+# Deivitto
 **Software engineer** with specialization in web2 security and system management. I used to create some **fullstack** and **cross platform** applications in my free time for fun. Due to it, I also developed special love for **UX**, **psychology** and **team management**. Writing one of my passions.
 
 ## Now
