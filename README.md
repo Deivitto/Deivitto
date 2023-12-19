@@ -62,7 +62,7 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
 
 </details>
 
-## Talks
+### Talks
 - TrustX Istambul: [Auditor Docker](https://www.youtube.com/watch?v=QQCE4mOqGi0)
 - Paris Logos: Guardians of the blockchain
 - OpenSense: Auditor Docker
