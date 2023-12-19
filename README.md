@@ -37,7 +37,7 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
 - Paris Logos: Guardians of the blockchain
 - OpenSense: Auditor Docker
 
-## 🛠️ Building / maintening
+## 🛠️ Building / maintaining
 - [auditor-docker](https://github.com/Deivitto/auditor-docker)
 
 ## 🏆 Hackathons
