@@ -31,6 +31,12 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
   - Team profiles:
     - [C4-0xPanas](https://code4rena.com/@0xPanas)
     - [C4-SleepingBugs](https://code4rena.com/@SleepingBugs)
+
+### Talks
+- TrustX Istambul: [Auditor Docker](https://www.youtube.com/watch?v=QQCE4mOqGi0)
+- Paris Logos: Guardians of the blockchain
+- OpenSense: Auditor Docker
+
 <details>
   <summary>Some other things I've done so far at web3 (not in order):</summary>
   
@@ -61,11 +67,6 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
   - 1 Hackathon not awarded
 
 </details>
-
-### Talks
-- TrustX Istambul: [Auditor Docker](https://www.youtube.com/watch?v=QQCE4mOqGi0)
-- Paris Logos: Guardians of the blockchain
-- OpenSense: Auditor Docker
 
 ## 🏆 Hackathons
 
