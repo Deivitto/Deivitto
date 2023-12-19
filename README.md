@@ -23,8 +23,7 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
   - TBA
 
 ### 🔎🐛 Contests
-- Contests at C4 / Sherlock / CodeHawks: Look for it at audit-hero.com or solidit.xyz
-- Or check out some profile:
+- Check out my contest profiles:
   - [Spearbit / Cantina](https://cantina.xyz/u/Deivitto)
   - [Code4rena](https://code4rena.com/@Deivitto)
   - [Sherlock](https://audits.sherlock.xyz/watson/Deivitto)
