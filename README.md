@@ -10,11 +10,16 @@ Now I'm focused on **blockchain** and it's **security** auditing for **Spearbit*
 ## 🕵️ Audits / Security / Web3
 ### [Spearbit Labs 🐱‍💻](https://spearbit.com/)
   - [Sudoswap V2](https://github.com/spearbit/portfolio/blob/master/pdfs/SudoswapLSSVM2-Spearbit-Security-Review.pdf)
-  - OpenSea Pro: TBD
-  - Redacted Cartel: TBD
-  - Element Finance: TBD
-  - TBD: TBD
-  - TBD: TBD
+  - OpenSea Pro
+  - Redacted Cartel
+  - Element Finance
+  - Axiom
+  - [Sphinx](https://github.com/spearbit/portfolio/blob/master/pdfs/Sphinx-Spearbit-Security-Review.pdf)
+  - TBA
+  - TBA 
+    
+#### [Cantina Managed 🐱‍💻](https://cantina.xyz/)
+  - TBA
 
 ### 🔎🐛 Contests
 - Contests at C4 / Sherlock / CodeHawks: Look for it at audit-hero.com or solidit.xyz
