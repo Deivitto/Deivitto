@@ -16,11 +16,13 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
   - Element Finance
   - Axiom V2
   - [Sphinx](https://github.com/spearbit/portfolio/blob/master/pdfs/Sphinx-Spearbit-Security-Review.pdf)
+  - Axiom V2 (Gas)
   - TBA
-  - TBA 
+  - TBA
     
 #### [Cantina Managed 🐱‍💻](https://cantina.xyz/)
-  - TBA
+  - Glow
+
 
 ### 🔎🐛 Contests
 - Check out my contest profiles:
@@ -31,6 +33,8 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
   - Team profiles:
     - [C4-0xPanas](https://code4rena.com/@0xPanas)
     - [C4-SleepingBugs](https://code4rena.com/@SleepingBugs)
+#### Scout judgding 
+- [Cantina Competitions](https://cantina.xyz/competitions): Superform
 
 ## 🗣️ Talks
 - TrustX Istambul: [Auditor Docker](https://www.youtube.com/watch?v=QQCE4mOqGi0)
