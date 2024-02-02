@@ -2,7 +2,7 @@
 I'm a **Software engineer** with specialization in web2 security and system management. I used to create some **fullstack** and **cross platform** applications in my free time for fun. Due to it, I also developed special love and skills at **UX**, **psychology** and **team management**. Writing is one of my passions.
 
 ## 🕛 Now
-Now, I'm focused on **blockchain** and its **security**, mostly auditing for **Spearbit** & **Cantina**. In my free time, I may do some **Code4rena**, **SherlockDeFi**, **Codehawks**, private audit or just check code at **Immunefi** for some bug. I do hackathons for fun. I like gas optimizing.
+Now, I'm focused on **blockchain** and its **security**, mostly auditing for **Spearbit** & **Cantina**. In my free time, I may do some **Code4rena**, **SherlockDeFi**, **Codehawks**, private audit or just check code at **Immunefi** for some bug. I do hackathons for fun. I do gas optimizing.
 
 ## 🖊️ Articles & educative content
 - How to play as a JSR at Spearbit: [hackmd](https://hackmd.io/@Deivitto/how-to-play-as-a-JSR-at-Spearbit), [medium](https://medium.com/@Deivitto/how-to-play-as-a-jsr-at-spearbit-c98a46484a1)
