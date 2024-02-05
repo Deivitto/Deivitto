@@ -24,8 +24,8 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
 #### [Cantina Managed 🐱‍💻](https://cantina.xyz/)
   - Glow
 
-#### Scout judgding 
-- [Cantina Competitions](https://cantina.xyz/competitions): Superform
+#### [Cantina Competitions](https://cantina.xyz/competitions)
+- Scout judgding: Superform
   
 ### 🔎🐛 Contests
 - Check out my contest profiles:
