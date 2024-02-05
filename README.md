@@ -27,7 +27,7 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
 #### [Cantina Competitions](https://cantina.xyz/competitions)
 - Scout judging: Superform
   
-### 🔎🐛 Contests
+## 🔎🐛 Contests
 - Check out my contest profiles:
   - [Spearbit / Cantina](https://cantina.xyz/u/Deivitto)
   - [Code4rena](https://code4rena.com/@Deivitto)
