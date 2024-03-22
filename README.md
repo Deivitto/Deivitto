@@ -18,6 +18,7 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
   - [Sphinx](https://github.com/spearbit/portfolio/blob/master/pdfs/Sphinx-Spearbit-Security-Review.pdf)
   - Axiom V2 (Gas)
   - Axiom V2 pt.2
+  - Delve
   - TBA
   - TBA
     
@@ -25,8 +26,15 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
   - Glow
 
 #### [Cantina Competitions](https://cantina.xyz/competitions)
-- Scout / judging: Superform
-  
+- Scout / judging:
+  - Superform
+  - Blast
+
+- Participating:
+  - Particle
+  - 3DNS
+  - POAP
+   
 ## 🔎🐛 Contests
 - Check out my contest profiles:
   - [Spearbit / Cantina](https://cantina.xyz/u/Deivitto)
@@ -63,6 +71,7 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
 
 ### !🏅 Hackathons with no awards / bounties (but with more knowledge than before 🤪)
 - PlayProtect for **ETHTokyo**: https://github.com/luksgrin/ETHTokyo_Project
+- AdaptivePools for **ETHLondon**: https://github.com/carlitox477/adaptive-pools
 
 ## ☕ Organizer / Volunteering 
 - Activate x Wormhole Miami Secureum a-MAZE-X CTF & Workshop
