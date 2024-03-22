@@ -26,11 +26,11 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
   - Glow
 
 #### [Cantina Competitions](https://cantina.xyz/competitions)
-- Scout / judging:
+Scout / judging:
   - Superform
   - Blast
 
-- Participating:
+Participating:
   - Particle
   - 3DNS
   - POAP
