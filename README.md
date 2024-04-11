@@ -18,8 +18,8 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
   - [Sphinx](https://github.com/spearbit/portfolio/blob/master/pdfs/Sphinx-Spearbit-Security-Review.pdf)
   - Axiom V2 (Gas)
   - Axiom V2 pt.2
-  - Delve
-  - TBA
+  - Delve (prev.: Element)
+  - TBA (April - May) (5 weeks)
   - TBA
     
 #### [Cantina Managed 🐱‍💻](https://cantina.xyz/)
