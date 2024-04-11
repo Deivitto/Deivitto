@@ -38,7 +38,7 @@ Participating:
 ## 🔎🐛 Contests
 - Check out my contest profiles:
   - [Cantina Competitions](https://cantina.xyz/u/Deivitto) (1 contest, 2H, 1M)
-  - [Code4rena](https://code4rena.com/@Deivitto) (14 contests, 2H, 15M + gas audits)
+  - [Code4rena](https://code4rena.com/@Deivitto) (14 contests, 2H, 15M + 21 gas audits)
   - [Sherlock](https://audits.sherlock.xyz/watson/Deivitto) (7 contests, 1 H, 8M)
   - [Codehawks](https://www.codehawks.com/profile/cll02r3vz000gl108uj65hvg6) (1 contest, 2H, 1M)
   - Team profiles:
