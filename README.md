@@ -22,7 +22,7 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
   - TBA (April - May) (5 weeks)
   - TBA
     
-#### [Cantina Managed 🐱‍💻](https://cantina.xyz/)
+#### [Cantina Managed 🐱‍💻](https://cantina.xyz/u/Deivitto)
   - Glow
 
 #### [Cantina Competitions](https://cantina.xyz/competitions)
