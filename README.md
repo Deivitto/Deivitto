@@ -35,16 +35,18 @@ Participating:
   - 3DNS
   - POAP
    
-## 🔎🐛 Contests
-- Check out my contest profiles:
-  - [Cantina Competitions](https://cantina.xyz/u/Deivitto) (1 contest, 2H, 1M)
-  - [Code4rena](https://code4rena.com/@Deivitto) (14 contests, 2H, 15M + 21 gas audits)
-  - [Sherlock](https://audits.sherlock.xyz/watson/Deivitto) (7 contests, 1 H, 8M)
-  - [Codehawks](https://www.codehawks.com/profile/cll02r3vz000gl108uj65hvg6) (1 contest, 2H, 1M)
-  - Team profiles:
-    - [C4-0xPanas](https://code4rena.com/@0xPanas)
-    - [C4-SleepingBugs](https://code4rena.com/@SleepingBugs)
+## 🌟 **Contests Overview**
 
+*Some contests are on going and the table will need to be update*
+
+| Platform         | Contests Participated | High Risk | Medium Risk | Additional Notes        | Last Contest Date |
+|------------------|-----------------------|--------------------|----------|-------------------------|----------|
+| **[Cantina](https://cantina.xyz/u/Deivitto)**      | 1                     | 2H                 | 1M       |  | February 2024 |
+| **[Code4rena](https://code4rena.com/@Deivitto)**    | 14                    | 2H                 | 15M      | 21 Gas and QA Audits  | February 2023 |
+| **[Sherlock](https://audits.sherlock.xyz/watson/Deivitto)**     | 7                     | 1H                 | 8M       |  | March 2023 |
+| **[Codehawks](https://www.codehawks.com/profile/cll02r3vz000gl108uj65hvg6)**    | 1                     | 2H                 | 1M       |  | August 2023 |
+| **[C4 Team-SleepingBugs](https://code4rena.com/@SleepingBugs)**  | 1                     |                  | 1M       | 7 Gas and QA Audits | January 2023 |
+| **[C4 Team-0xPanas](https://code4rena.com/@0xPanas)**  | 1                     | 2H                 |        |  | September 2022 |
 
 ## 🗣️ Talks
 - TrustX Istambul: [Auditor Docker](https://www.youtube.com/watch?v=QQCE4mOqGi0)
