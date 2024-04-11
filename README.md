@@ -35,9 +35,9 @@ Participating:
   - 3DNS
   - POAP
    
-## 🌟 **Contests Overview**
+## ⚔️🥇 **Contests Overview**
 
-*Some contests are on going and the table will need to be update*
+*Some contests are ongoing and the table will need to be updated.*
 
 |                  Platform                  | Contests Participated | High Risk | Medium Risk |       Additional Notes        | Last Contest Date |
 |:------------------------------------------:|:---------------------:|:---------:|:-----------:|:-----------------------------:|:-----------------:|
