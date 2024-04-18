@@ -22,8 +22,14 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
   - TBA (April - May) (5 weeks)
   - TBA
     
-#### [Cantina Managed 🐱‍💻](https://cantina.xyz/u/Deivitto)
+### [Cantina Managed 🐱‍💻](https://cantina.xyz/u/Deivitto)
   - Glow
+
+### Total Stats Spearbit + Cantina Managed reviews
+*Data grouping as per 2024, 18th April, the different findings found by the review team where I participated*
+|                  Critical Risk                  | High Risk | Medium Risk | Low Risk |  Gas Optimization  | Info Risk |
+|:------------------------------------------:|:---------------------:|:---------:|:-----------:|:-----------------------------:|:-----------------:|
+| 7 |           19           |     30    |      89     |                57               |   182   |
 
 #### [Cantina Competitions](https://cantina.xyz/competitions)
 Scout / judging:
