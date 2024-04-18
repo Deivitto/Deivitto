@@ -31,16 +31,16 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
 |:------------------------------------------:|:---------------------:|:---------:|:-----------:|:-----------------------------:|:-----------------:|
 | 7 |           19           |     30    |      89     |                57               |   182   |
 
-## [Cantina Competitions](https://cantina.xyz/competitions)
-Scout / judging:
+### [Cantina Competitions](https://cantina.xyz/competitions)
+#### Scout / judging:
   - Superform
   - Blast
 
-Participating:
+#### Participating:
   - Particle
   - 3DNS
   - POAP
-   
+
 ## ⚔️🥇 **Contests Overview**
 
 *Some contests are ongoing and the table will need to be updated.*
