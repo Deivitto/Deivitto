@@ -26,7 +26,7 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
   - Glow
 
 ## Total Stats Spearbit + Cantina Managed reviews
-*Data grouping (as per 2024, 18th April) the different findings found by the review team where I participated*
+*Data grouping (as per 2024, 18th April) the different findings found by our review team*
 |                  Critical Risk                  | High Risk | Medium Risk | Low Risk |  Gas Optimization  | Info Risk |
 |:------------------------------------------:|:---------------------:|:---------:|:-----------:|:-----------------------------:|:-----------------:|
 | 7 |           19           |     30    |      89     |                57               |   182   |
@@ -53,7 +53,7 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
 | **[Codehawks](https://www.codehawks.com/profile/cll02r3vz000gl108uj65hvg6)** |           1           |     2    |      1     |                               |    August 2023    |
 | **[C4 Team-SleepingBugs](https://code4rena.com/@SleepingBugs)** |           1           |           |      1     | + 7 Gas and QA Audits         |    January 2023   |
 | **[C4 Team-0xPanas](https://code4rena.com/@0xPanas)** |           1           |     2    |             |                               |  September 2022   |
-
+| Total |           25           |     9    |      26       |              + 28 just QA and Gas audits                 |  February 2024   |
 ## 🗣️ Talks
 - TrustX Istambul: [Auditor Docker](https://www.youtube.com/watch?v=QQCE4mOqGi0)
 - Paris Logos: Guardians of the blockchain
