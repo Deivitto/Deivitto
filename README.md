@@ -25,7 +25,7 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
 ### [Cantina Managed 🐱‍💻](https://cantina.xyz/u/Deivitto)
   - Glow
 
-## Total Stats Spearbit + Cantina Managed reviews
+## Total Stats at Spearbit + Cantina Managed reviews
 *Data grouping (as per 2024, 18th April) the different findings found by our review team*
 |                  Critical Risk                  | High Risk | Medium Risk | Low Risk |  Gas Optimization  | Info Risk |
 |:------------------------------------------:|:---------------------:|:---------:|:-----------:|:-----------------------------:|:-----------------:|
@@ -56,8 +56,8 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
 | Total |           25           |     9    |      26       |              + 28 just QA and Gas audits                 |  February 2024   |
 ## 🗣️ Talks
 - TrustX Istambul: [Auditor Docker](https://www.youtube.com/watch?v=QQCE4mOqGi0)
-- Paris Logos: Guardians of the blockchain
-- OpenSense: Auditor Docker
+- Paris Logos: [Guardians of the blockchain](https://www.youtube.com/watch?v=fFM0FK4gzpE&list=PLbrz7IuP1hriTnPiWk7opCS5fm4WOKPW8&index=6)
+- OpenSense: [Auditor Toolbox](https://www.youtube.com/watch?v=OtQaEEubPAU)
 
 ## 🛠️ Building / maintaining
 - [The Auditor Toolbox](https://github.com/Deivitto/auditor-docker)
