@@ -19,8 +19,10 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
   - Axiom V2 (Gas)
   - Axiom V2 pt.2
   - Delve (prev.: Element)
-  - TBD (April - May) (5 weeks)
-  - TBA 
+  - Euler Finance EVC
+  - Euler Finance EVK
+  - Euler Finance Oracle
+  - TBD 
     
 ### [Cantina Managed 🐱‍💻](https://cantina.xyz/u/Deivitto)
   - Glow
