@@ -26,7 +26,7 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
   - Uniswap V4 Universal Router
   - Uniswap V4 Periphery
   
-### [Cantina Managed 🐱‍💻](https://cantina.xyz/u/Deivitto)
+#### [Cantina Managed 🐱‍💻](https://cantina.xyz/u/Deivitto)
   - Glow
 
 ## Total Stats at Spearbit + Cantina Managed reviews
