@@ -13,17 +13,19 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
   - [Sudoswap V2](https://github.com/spearbit/portfolio/blob/master/pdfs/SudoswapLSSVM2-Spearbit-Security-Review.pdf)
   - OpenSea Pro
   - Redacted Cartel
-  - Element Finance
+  - [DELV (prev. Element Finance)](https://github.com/spearbit/portfolio/blob/master/pdfs/Delv-Spearbit-Security-Review-February-2024.pdf)
   - Axiom V2
   - [Sphinx](https://github.com/spearbit/portfolio/blob/master/pdfs/Sphinx-Spearbit-Security-Review.pdf)
   - Axiom V2 (Gas)
   - Axiom V2 pt.2
-  - Delve (prev.: Element)
-  - Euler Finance EVC
-  - Euler Finance EVK
-  - Euler Finance Oracle
-  - TBD 
-    
+  - [DELV](https://github.com/spearbit/portfolio/blob/master/pdfs/Delv-Spearbit-Security-Review-March-2024.pdf)
+  - [Euler Finance EVC](https://github.com/spearbit/portfolio/blob/master/pdfs/Euler-Spearbit-Security-Review-EVC-April-2024.pdf)
+  - [Euler Finance EVK](https://github.com/spearbit/portfolio/blob/master/pdfs/Euler-Spearbit-Security-Review-EVK-April-2024.pdf)
+  - [Euler Finance Oracle](https://github.com/spearbit/portfolio/blob/master/pdfs/Euler-Spearbit-Security-Review-Oracle-April-2024.pdf)
+  - Uniswap V4 Core
+  - Uniswap V4 Universal Router
+  - Uniswap V4 Periphery
+  
 ### [Cantina Managed 🐱‍💻](https://cantina.xyz/u/Deivitto)
   - Glow
 
@@ -37,6 +39,7 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
 #### Scout / judging:
   - Superform
   - Blast
+  - TBD
 
 #### Participating:
   - Particle
