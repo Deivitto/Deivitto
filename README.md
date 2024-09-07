@@ -105,7 +105,7 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
   - Editing [Secureum Gitbook](https://github.com/secureum/Secureum-Book)       
 - Audits / Security related
   - Secureum Bootcamp from Epoch0 - EpochInfinite
-  - Top 16–32 at some of Secureum Races -> CAREs
+  - Top 1, 2, 8, 16–32 at some Secureum Races -> CAREs
   - Top 150 at Code4rena 2022 (starting at July aprox)
   - Top 100 at Sherlock 2022 (starting october/november)
   - Joined Spearbit at December 2022
