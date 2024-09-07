@@ -36,10 +36,10 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
 | 7 |           19           |     30    |      89     |                57               |   182   |
 
 ### [Cantina Competitions](https://cantina.xyz/competitions)
-#### Scout / judging:
+#### Judging / scouting:
   - Superform
   - Blast
-  - TBD
+  - Uniswap V4
 
 #### Participating:
   - Particle
@@ -89,6 +89,7 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
 ## ☕ Organizer / Volunteering 
 - Activate x Wormhole Miami Secureum a-MAZE-X CTF & Workshop
 - DevconVI Bogota
+- DevconVII Thailand
 - ETHBogota / ETHLatam
 - ETHBarcelona 2023
 - TrustX Istambul
