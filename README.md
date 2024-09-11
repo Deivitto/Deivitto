@@ -16,7 +16,7 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
   - [DELV (prev. Element Finance)](https://github.com/spearbit/portfolio/blob/master/pdfs/Delv-Spearbit-Security-Review-February-2024.pdf)
   - Axiom V2
   - [Sphinx](https://github.com/spearbit/portfolio/blob/master/pdfs/Sphinx-Spearbit-Security-Review.pdf)
-  - Axiom V2 (Gas)
+  - Axiom V2 PR review + Gas 
   - Axiom V2 pt.2
   - [DELV](https://github.com/spearbit/portfolio/blob/master/pdfs/Delv-Spearbit-Security-Review-March-2024.pdf) pt.2
   - [Euler Finance EVC](https://github.com/spearbit/portfolio/blob/master/pdfs/Euler-Spearbit-Security-Review-EVC-April-2024.pdf)
