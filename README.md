@@ -43,8 +43,6 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
 
 #### Participating:
   - Particle
-  - 3DNS
-  - POAP
 
 ## ⚔️🥇 **Contests Overview**
 
