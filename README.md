@@ -11,20 +11,20 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
 ## 🕵️ Audits / Security / Web3
 ### [Spearbit Labs 🐱‍💻](https://spearbit.com/)
   - [Sudoswap V2](https://github.com/spearbit/portfolio/blob/master/pdfs/SudoswapLSSVM2-Spearbit-Security-Review.pdf)
-  - OpenSea Pro
+  - [OpenSea Pro](https://cantina.xyz/portfolio/ca3aaac6-0792-4da7-be9d-b013dc42016f)
   - Redacted Cartel
   - [DELV (prev. Element Finance)](https://github.com/spearbit/portfolio/blob/master/pdfs/Delv-Spearbit-Security-Review-February-2024.pdf)
-  - Axiom V2
+  - [Axiom V2](https://github.com/spearbit/portfolio/blob/master/pdfs/Axiom-contracts-Spearbit-Security-Review-October-2023.pdf)
   - [Sphinx](https://github.com/spearbit/portfolio/blob/master/pdfs/Sphinx-Spearbit-Security-Review.pdf)
-  - Axiom V2 PR review + Gas 
-  - Axiom V2 pt.2
+  - [Axiom V2 PR review + Gas](https://github.com/spearbit/portfolio/blob/master/pdfs/Axiom-contracts-Spearbit-Security-Review-December-2023.pdf) 
+  - [Axiom V2 pt.2](https://github.com/spearbit/portfolio/blob/master/pdfs/Axiom-contracts-Spearbit-Security-Review-January-2024.pdf)
   - [DELV](https://github.com/spearbit/portfolio/blob/master/pdfs/Delv-Spearbit-Security-Review-March-2024.pdf) pt.2
   - [Euler Finance EVC](https://github.com/spearbit/portfolio/blob/master/pdfs/Euler-Spearbit-Security-Review-EVC-April-2024.pdf)
   - [Euler Finance EVK](https://github.com/spearbit/portfolio/blob/master/pdfs/Euler-Spearbit-Security-Review-EVK-April-2024.pdf)
   - [Euler Finance Oracle](https://github.com/spearbit/portfolio/blob/master/pdfs/Euler-Spearbit-Security-Review-Oracle-April-2024.pdf)
-  - Uniswap V4 Core
-  - Uniswap V4 Universal Router
-  - Uniswap V4 Periphery
+  - [Uniswap V4 Core](https://github.com/Uniswap/v4-core/blob/main/docs/security/audits/DRAFT_Spearbit_audit_core.pdf)
+  - [Uniswap V4 Universal Router](https://github.com/Uniswap/universal-router/blob/dev/audit/DRAFT_Spearbit_audit_UR.pdf)
+  - [Uniswap V4 Periphery](https://github.com/Uniswap/v4-periphery/blob/35e00119fc82730fd875abf5c4c5785f1f127e48/audits/DRAFT_Spearbit_audit_periphery.pdf)
   
 #### [Cantina Managed 🐱‍💻](https://cantina.xyz/u/Deivitto)
   - Glow
