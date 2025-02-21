@@ -30,7 +30,7 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
   - Glow
 
 ## Total Stats at Spearbit + Cantina Managed reviews
-*Data grouping (as per **2024, 18th April**) the different findings found by the previous reviews team*
+*Data grouping (as per **2024, 18th April**) the different findings found by the previous audits*
 |                  Critical Risk                  | High Risk | Medium Risk | Low Risk |  Gas Optimization  | Info Risk |
 |:------------------------------------------:|:---------------------:|:---------:|:-----------:|:-----------------------------:|:-----------------:|
 | 7 |           19           |     30    |      89     |                57               |   182   |
