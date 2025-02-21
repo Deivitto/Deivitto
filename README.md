@@ -92,10 +92,13 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
 - ETHBarcelona 2023
 - TrustX Istambul
 
+
+
 ## 📦 Other Stuff
 <details>
   <summary>A list of things done at the space:</summary>
-  
+- UniV4
+    - Atrium Uniswap v4 hook incubator graduated alumni
 - Talks:
     - TrustX Istambul: [Auditor Docker](https://www.youtube.com/watch?v=QQCE4mOqGi0)
     - Paris Logos: Guardians of the blockchain
