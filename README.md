@@ -42,7 +42,7 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
   - [Uniswap V4](https://cantina.xyz/code/e2cf6906-ec8b-4c78-a585-74ac90615659/)
 
 #### Participating:
-  - Particle
+  - [Particle](https://cantina.xyz/code/d69d41d0-bf70-4578-a820-749e99c4c6c4/findings?created_by=Deivitto)
 
 ## ⚔️🥇 **Contests Overview**
 
