@@ -103,6 +103,7 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
     - TrustX Istambul: [Auditor Docker](https://www.youtube.com/watch?v=QQCE4mOqGi0)
     - Paris Logos: Guardians of the blockchain
     - OpenSense: Auditor Docker
+    - Activate Miami X Wormhole: Secureum Workshop - Randomness in blockchain 
 - Book:
   - Editing [Secureum Gitbook](https://github.com/secureum/Secureum-Book)       
 - Audits / Security related
