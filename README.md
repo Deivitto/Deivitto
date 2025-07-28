@@ -91,6 +91,7 @@ Now, I'm focused on **blockchain** and its **security**, mostly auditing for **S
 - ETHBogota / ETHLatam
 - ETHBarcelona 2023
 - TrustX Istambul
+- DSS Thailand
 
 
 
