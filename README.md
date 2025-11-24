@@ -165,7 +165,7 @@ Cantina, etc. Broad skill set from manual review, invariant fuzzing to gas optim
   />
 </p>
 
-#### Judging / scouting:
+#### Judging:
   - [Superform](https://cantina.xyz/code/2cd0b038-3e32-4db6-b488-0f85b6f0e49f/)
   - [Blast](https://cantina.xyz/competitions/c90131b4-5c7c-4ebc-a1f3-8002d219bfe0)
   - [Uniswap V4](https://cantina.xyz/code/e2cf6906-ec8b-4c78-a585-74ac90615659/)
