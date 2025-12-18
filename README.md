@@ -21,96 +21,6 @@ DeFi, Vaults, Hooks, Lending, NFTs, Cross chain, Math & Fuzzing enjoyoor. I do h
 ## 🛠️ Building / maintaining
 - [The Auditor Toolbox](https://github.com/Deivitto/auditor-docker)
 
-## ☕ Workshops & Event Coordination  
-
-<p align="left">
-  <a href="https://www.activate.build/miami">
-    <img src="https://www.activate.build/activate-miami.jpg"
-         alt="Wormhole Activate Miami Workshop"
-         height="64"
-         style="margin:0 12px 12px 0;" />
-  </a>
-  <a href="https://secureum.substack.com/">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbiBaUtJwYGQ68oV6FNxzrQznWyas-YBf5Nw&s"
-         alt="a-MAZE-X CTF by Secureum"
-         height="64"
-         style="margin:0 12px 12px 0;" />
-  </a>
-  <a href="https://www.secureum.xyz/trustx/">
-    <img src="https://www.secureum.xyz/wp-content/uploads/2023/08/Trust-X_Landing-page_Update_Trust-X-Logo-Updated.png"
-         alt="TrustX by Secureum"
-         height="64"
-         style="margin:0 12px 12px 0;" />
-  </a>
-  <a href="https://devcon.org/vi">
-    <img src="https://www.criptonoticias.com/wp-content/uploads/2022/10/DEVCON-2022-Bogota-Ethereum.jpg"
-         alt="Devcon VI"
-         height="72"
-         style="margin:0 12px 12px 0;" />
-  </a>
-  <a href="https://devcon.org/vii">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCeZ7YwJ3wHiEwxvxxg1vcDY2R_MUJvhqrg&s"
-         alt="Devcon VII"
-         height="72"
-         style="margin:0 12px 12px 0;" />
-  </a>
-  <a href="https://ethbogota.com/">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-1q0nHGqEugzuZ3R3bh7l3qKtJL2yGM1k0g&s"
-         alt="ETHBogota"
-         height="72"
-         style="margin:0 12px 12px 0;" />
-  </a>
-  <a href="https://ethlatam.com/">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW3KE-MjUtXjHxDSw_capv27L9PEslvSz68w&s"
-         alt="ETHLatam"
-         height="72"
-         style="margin:0 12px 12px 0;" />
-  </a>
-  <a href="https://ethbarcelona.com/">
-    <img src="https://www.criptonoticias.com/wp-content/uploads/2023/06/ETHBCN.jpg"
-         alt="ETHBarcelona 2023"
-         height="72"
-         style="margin:0 12px 12px 0;" />
-  </a>
-  <a href="https://defisecuritysummit.org/">
-    <img src="https://smartcontractsecurity.eu/media/posts/78/Screenshot_4.png"
-         alt="DeFi Security Summit Thailand"
-         height="72"
-         style="margin:0 12px 12px 0;" />
-  </a>
-</p>
-
-#### Roles & contributions
-<details>
-  
-- **Wormhole Activate Miami + Secureum – Workshop**  
-  Role: Organized security-focused workshops for developers.
-
-- **a-MAZE-X CTF by Secureum**  
-  Role: CTF challenge creation and event organization.
-
-- **TrustX by Secureum**  
-  Role: Event organization, interviewer and community engagement around Web3 security.
-
-- **Devcon VI (Bogotá)**  
-  Role: Supported event organization and coordination of community activities.
-
-- **Devcon VII (Bangkok)**  
-  Role: Organization and coordinating.
-
-- **ETHBogota**  
-  Role: Organized builder-focused activities, hackathon and participant support.
-
-- **ETHLatam**  
-  Role: Organization and coordination for Spanish-speaking Web3 community.
-
-- **ETHBarcelona 2023**  
-  Role: Organization and coordination for the event and hackathon with the local community.
-
-- **DeFi Security Summit Thailand**  
-  Role: Organization and coordination for a DeFi security–focused event.
-</details>
-
 ## 🕵️ Audits / Security / Web3
 ### Summary
 Computer Engineer & Smart-contract Auditor specialising in DeFi, L2s ecosystems. 18+ security
@@ -208,6 +118,98 @@ Cantina, etc. Broad skill set from manual review, invariant fuzzing to gas optim
 ### !🏅 Hackathons with no awards / bounties
 - PlayProtect for **ETHTokyo**: https://github.com/luksgrin/ETHTokyo_Project
 - AdaptivePools for **ETHLondon**: https://github.com/carlitox477/adaptive-pools
+
+
+## ☕ Workshops & Event Coordination  
+
+<p align="left">
+  <a href="https://www.activate.build/miami">
+    <img src="https://www.activate.build/activate-miami.jpg"
+         alt="Wormhole Activate Miami Workshop"
+         height="64"
+         style="margin:0 12px 12px 0;" />
+  </a>
+  <a href="https://secureum.substack.com/">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbiBaUtJwYGQ68oV6FNxzrQznWyas-YBf5Nw&s"
+         alt="a-MAZE-X CTF by Secureum"
+         height="64"
+         style="margin:0 12px 12px 0;" />
+  </a>
+  <a href="https://www.secureum.xyz/trustx/">
+    <img src="https://www.secureum.xyz/wp-content/uploads/2023/08/Trust-X_Landing-page_Update_Trust-X-Logo-Updated.png"
+         alt="TrustX by Secureum"
+         height="64"
+         style="margin:0 12px 12px 0;" />
+  </a>
+  <a href="https://devcon.org/vi">
+    <img src="https://www.criptonoticias.com/wp-content/uploads/2022/10/DEVCON-2022-Bogota-Ethereum.jpg"
+         alt="Devcon VI"
+         height="72"
+         style="margin:0 12px 12px 0;" />
+  </a>
+  <a href="https://devcon.org/vii">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCeZ7YwJ3wHiEwxvxxg1vcDY2R_MUJvhqrg&s"
+         alt="Devcon VII"
+         height="72"
+         style="margin:0 12px 12px 0;" />
+  </a>
+  <a href="https://ethbogota.com/">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-1q0nHGqEugzuZ3R3bh7l3qKtJL2yGM1k0g&s"
+         alt="ETHBogota"
+         height="72"
+         style="margin:0 12px 12px 0;" />
+  </a>
+  <a href="https://ethlatam.com/">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW3KE-MjUtXjHxDSw_capv27L9PEslvSz68w&s"
+         alt="ETHLatam"
+         height="72"
+         style="margin:0 12px 12px 0;" />
+  </a>
+  <a href="https://ethbarcelona.com/">
+    <img src="https://www.criptonoticias.com/wp-content/uploads/2023/06/ETHBCN.jpg"
+         alt="ETHBarcelona 2023"
+         height="72"
+         style="margin:0 12px 12px 0;" />
+  </a>
+  <a href="https://defisecuritysummit.org/">
+    <img src="https://smartcontractsecurity.eu/media/posts/78/Screenshot_4.png"
+         alt="DeFi Security Summit Thailand"
+         height="72"
+         style="margin:0 12px 12px 0;" />
+  </a>
+</p>
+
+#### Roles & contributions
+<details>
+  
+- **Wormhole Activate Miami + Secureum – Workshop**  
+  Role: Organized security-focused workshops for developers.
+
+- **a-MAZE-X CTF by Secureum**  
+  Role: CTF challenge creation and event organization.
+
+- **TrustX by Secureum**  
+  Role: Event organization, interviewer and community engagement around Web3 security.
+
+- **Devcon VI (Bogotá)**  
+  Role: Supported event organization and coordination of community activities.
+
+- **Devcon VII (Bangkok)**  
+  Role: Organization and coordinating.
+
+- **ETHBogota**  
+  Role: Organized builder-focused activities, hackathon and participant support.
+
+- **ETHLatam**  
+  Role: Organization and coordination for Spanish-speaking Web3 community.
+
+- **ETHBarcelona 2023**  
+  Role: Organization and coordination for the event and hackathon with the local community.
+
+- **DeFi Security Summit Thailand**  
+  Role: Organization and coordination for a DeFi security–focused event.
+</details>
+
 
 ## ⚙️ Tech & languages stack
 
