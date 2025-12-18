@@ -98,7 +98,7 @@ Cantina, etc. Broad skill set from manual review, invariant fuzzing to gas optim
 | **[Codehawks](https://www.codehawks.com/profile/cll02r3vz000gl108uj65hvg6)** |           1           |     2    |      1     |                               |    August 2023    |
 | **[C4 Team-SleepingBugs](https://code4rena.com/@SleepingBugs)** |           1           |           |      1     | + 7 Gas and QA Audits         |    January 2023   |
 | **[C4 Team-0xPanas](https://code4rena.com/@0xPanas)** |           1           |     2    |             |                               |  September 2022   |
-| Total |           25           |     9    |      26       |              + 28 just QA and Gas audits                 |  February 2024   |
+| Total |           25           |     9    |      26       |              + 28 just QA and Gas audits, around 150 L                 |  February 2024   |
 
 ## 🏆 Hackathons
 
