@@ -3,9 +3,9 @@
 I'm a **Computer engineer** with specialization in web2 security, opsec and system management. I had created some **fullstack** and **cross platform** applications in my free time for the love of creating and providing solutions. I also have some skills regarding **UX**, **psychology** and **team management**.
 
 ## 🕛 Now
-Focused on **blockchain** (EVM + Solana) and its **security**, I do audits for **Spearbit** & **Cantina**. Judge and triager at **Cantina**. 
+Focused on **blockchain** (EVM + Solana) and its **security**, I do audits for **Spearbit** & **Cantina**. Judge and triager at **Cantina**. Fuzzing with recon.xyz.
 
-DeFi, Vaults, Hooks, Lending, NFTs, Cross chain, Math & Fuzzing enjoyoor. I do hackathons for fun. I do gas optimizing. I do tool development 
+DeFi, Vaults, Hooks, Lending, NFTs, Cross chain, zk, Math & Fuzzing enjoyoor. I do hackathons for fun. I do gas optimizing. I do tool development 
 
 ## 🖊️ Articles & educative content
 - Co-editor of [The Secureum Book](https://github.com/secureum/Secureum-Book)
