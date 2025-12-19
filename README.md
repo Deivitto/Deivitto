@@ -17,6 +17,7 @@ DeFi, Vaults, Hooks, Lending, NFTs, Cross chain, zk, Math & Fuzzing/Invariant te
 - TrustX Istambul: [Auditor Docker](https://www.youtube.com/watch?v=QQCE4mOqGi0)
 - Paris Logos: [Guardians of the blockchain](https://www.youtube.com/watch?v=fFM0FK4gzpE&list=PLbrz7IuP1hriTnPiWk7opCS5fm4WOKPW8&index=6)
 - OpenSense: [Auditor Toolbox](https://www.youtube.com/watch?v=OtQaEEubPAU)
+- Miami Activate x Wormhole: Randomness in the chain
 
 ## 🛠️ Building / maintaining
 - [The Auditor Toolbox](https://github.com/Deivitto/auditor-docker)
