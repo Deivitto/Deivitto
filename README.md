@@ -5,7 +5,7 @@ I'm a **Computer engineer** with specialization in **web2 security**, **opsec** 
 ## 🕛 Now
 Focused on **blockchain** (EVM + Solana) and its **security**, I do audits for **Spearbit** & **Cantina**. Judge and triager at **Cantina**. Fuzzing and buildingwith **GetRecon.xyz**.
 
-DeFi, Vaults, Hooks, Lending, NFTs, Cross chain, zk, Math & Fuzzing/Invariant testing. Hackathons enjoyer. I do gas optimizing. I do tool development. 
+**DeFi**, **Vaults**, **Hooks**, **Lending**, **NFTs**, **Cross chain**, **zk**, **Math** & **Fuzzing**/**Invariant testing**. **Hackathons** enjoyer. I do **gas** optimizing. I do **tool development**. 
 
 ## 🖊️ Articles & educative content
 - Co-editor of [The Secureum Book](https://github.com/secureum/Secureum-Book)
