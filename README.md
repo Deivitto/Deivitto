@@ -22,7 +22,7 @@ Focused on **blockchain** (EVM + Solana) and its **security**, I do audits for *
 ## 🛠️ Building / maintaining
 - [The Auditor Toolbox](https://github.com/Deivitto/auditor-docker)
 
-## 🕵️ Audits / Security / Web3
+## 🕵️ Public Audit Reports
 ### Summary
 Computer Engineer & Smart-contract Auditor specialising in DeFi, L2s ecosystems. 18+ security
 reviews at Spearbit & Cantina ($2B+ TVL helped secure), 25+ contests across C4, Sherlock, Codehawks,
