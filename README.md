@@ -1,9 +1,16 @@
 # Deivitto
 ## 👤 Background
-I'm a **Computer engineer** with specialization in **web2 security**, **opsec** and **system management**. I do **fullstack** and **cross platform** applications for more than 8 years. **CI/CD**, **docker**. **PWA**, **mobile**, **TG bots**, **AI**, **AI Agents**, **Prompt Engineering**, **VSCode extensions**. I also have skills regarding **UX**, **client psychology** and **team management**. **Secureum** alumni and top racer. **Atrium** (Uniswap v4 **Hooks**) alumni. **ZKDao Circom** alumni.
+I'm a **Computer engineer** with specialization in **web2 security**, **opsec** and **system management**. I do **fullstack** and **cross platform** applications for more than 8 years. **CI/CD**, **docker**. **PWA**, **mobile**, **TG bots**, **AI**, **AI Agents**, **Prompt Engineering**, **VSCode extensions**. 
+
+I also have skills regarding **UX**, **client psychology** and **team management**. 
+
+**Secureum** alumni and top racer. **Atrium** (Uniswap v4 **Hooks**) alumni. **ZKDao Circom** alumni.
 
 ## 🕛 Now
-Focused on **blockchain** (EVM, Solana, infra) and its **security**, I do audits for **Spearbit** & **Cantina**. Judge and triager at **Cantina**. Fuzzing and building at **GetRecon.xyz**.
+Focused on **blockchain** (EVM, Solana, infra) and its **security**:
+- Security audits for **Spearbit**, **Cantina** & **GetRecon.xyz**. 
+- Judge and triager at **Cantina**. 
+- Fuzzing and building at **GetRecon.xyz**.
 
 **DeFi**, **Vaults**, **Tokens**, **SPL**, **Hooks**, **Lending**, **NFTs**, **Cross chain**, **zk**, **Hooks**, **Math** & **Fuzzing**/**Invariant testing**. **Gas** optimizer. **Tool developer**. 
 
@@ -17,7 +24,7 @@ Focused on **blockchain** (EVM, Solana, infra) and its **security**, I do audits
 - TrustX Istambul: [Auditor Docker](https://www.youtube.com/watch?v=QQCE4mOqGi0)
 - Paris Logos: [Guardians of the blockchain](https://www.youtube.com/watch?v=fFM0FK4gzpE&list=PLbrz7IuP1hriTnPiWk7opCS5fm4WOKPW8&index=6)
 - OpenSense: [Auditor Toolbox](https://www.youtube.com/watch?v=OtQaEEubPAU)
-- Miami Activate x Wormhole: Randomness in the chain
+- Miami Activate x Wormhole: Randomness on chain
 
 ## 🛠️ Building / maintaining
 - [The Auditor Toolbox](https://github.com/Deivitto/auditor-docker)
@@ -269,15 +276,3 @@ Feel free to DM to [request an audit](https://twitter.com/u/Deivitto)
 
 [![Twitter](https://img.shields.io/badge/-twitter-1D9BF0?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/Deivitto)
 
-<!--[![Github](https://img.shields.io/badge/-github-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Deivitto) 
-Hello there! My name is David, but on the internet I go as Deivitto. I'm a Software Engineer currently working daily at web3 Security and at building some side projects just for passion and curiosity. I use to spend time in maths and at trading. Also into UX.
- 
-When it comes to problems, I like diving deep into things to understand them, also typically testing limits by making things not to work. 
- 
-I'm currently building some projects related to tooling such as the [Auditor-Toolbox](https://github.com/Deivitto/auditor-docker). For any thing related to it, feel free to reach me out! 😊 
- 
-For more details regarding my career, check out: 
- 
- [![Github](https://img.shields.io/badge/-github-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Deivitto) 
-
--->
