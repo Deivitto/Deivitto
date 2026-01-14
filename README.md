@@ -133,7 +133,7 @@ Cantina, etc. Broad skill set from manual review, invariant fuzzing to gas optim
 
 <p align="left">
   <a href="https://www.activate.build/miami">
-    <img src="https://www.activate.build/activate-miami.jpg"
+    <img src="https://refreshmiami.com/wp-content/uploads/2023/08/activate-K4OPkE.tmp_.jpg"
          alt="Wormhole Activate Miami Workshop"
          height="64"
          style="margin:0 12px 12px 0;" />
