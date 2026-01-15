@@ -1,11 +1,4 @@
 # Deivitto
-## 👤 Background
-I'm a **Computer engineer** with specialization in **web2 security**, **opsec** and **system management**. I do **fullstack** and **cross platform** applications for more than 8 years. **CI/CD**, **docker**. **PWA**, **mobile**, **TG bots**, **AI**, **AI Agents**, **Prompt Engineering**, **VSCode extensions**. 
-
-I also have skills regarding **UX**, **client psychology** and **team management**. 
-
-**Secureum** alumni and top racer. **Atrium** (Uniswap v4 **Hooks**) alumni. **ZKDao Circom** alumni.
-
 ## 🕛 Now
 Focused on **blockchain** (EVM, Solana, infra) and its **security**:
 - Security audits for **Spearbit**, **Cantina** & **GetRecon.xyz**. 
@@ -13,6 +6,15 @@ Focused on **blockchain** (EVM, Solana, infra) and its **security**:
 - Fuzzing and building at **GetRecon.xyz**.
 
 **DeFi**, **Vaults**, **Tokens**, **SPL**, **Hooks**, **Lending**, **NFTs**, **Cross chain**, **zk**, **Hooks**, **Math** & **Fuzzing**/**Invariant testing**. **Gas** optimizer. **Tool developer**. 
+
+## 👤 Background
+I'm a **Computer engineer** with specialization in **Web2 Security**, **Pentesting**, **OpSec**, **OSINT** and **System and Networks management**.  I do **fullstack** and **cross platform** applications for more than 8 years. 
+
+**CI/CD**, **docker**. **PWA**, **mobile**, **TG bots**, **UX Engineering**, **UX Patterns**, **VSCode extensions**
+
+**AI**, **AI Agents**, **Prompt Engineering**, [**Prompt Injection**](https://gandalf.lakera.ai/leaderboard/password-reveal/gandalf-the-white-v2**)
+
+**Secureum** alumni and top racer. **Atrium** (Uniswap v4 **Hooks**) alumni. **ZKDao Circom** alumni.
 
 ## 🖊️ Articles & educative content
 - Co-editor of [The Secureum Book](https://github.com/secureum/Secureum-Book)
