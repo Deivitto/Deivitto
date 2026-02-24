@@ -21,10 +21,10 @@ I also do **fullstack** and **cross platform** applications for more than 8 year
 **Secureum** alumni and top racer. **Atrium** (Uniswap v4 **Hooks**) alumni. **ZKDao Circom** alumni.
 
 ## 🖊️ Articles & educative content
+- The CPIMP Backdoor, the USPD Incident and how the UI/UX is tricking us: [hackmd](https://hackmd.io/PPIdG8-nQrSCCHsdzQd3EA), [medium](https://medium.com/@Deivitto/the-cpimp-backdoor-the-uspd-incident-and-how-block-explorer-ux-can-trick-you-e4184151c68b)
 - Co-editor of [The Secureum Book](https://github.com/secureum/Secureum-Book)
 - The Auditor Toolbox: [hackmd](https://hackmd.io/@Deivitto/The-Auditor-Toolbox), [medium](https://medium.com/@Deivitto/the-auditor-toolbox-840848d42109)
 - How to play as a JSR at Spearbit: [hackmd](https://hackmd.io/@Deivitto/how-to-play-as-a-JSR-at-Spearbit), [medium](https://medium.com/@Deivitto/how-to-play-as-a-jsr-at-spearbit-c98a46484a1)
-- The CPIMP Backdoor, the USPD Incident and how the UI/UX is tricking us: [hackmd](https://hackmd.io/PPIdG8-nQrSCCHsdzQd3EA), [medium](https://medium.com/@Deivitto/the-cpimp-backdoor-the-uspd-incident-and-how-block-explorer-ux-can-trick-you-e4184151c68b)
 
 ## 🗣️ Talks
 - TrustX Istambul: [Auditor Docker](https://www.youtube.com/watch?v=QQCE4mOqGi0)
@@ -33,8 +33,9 @@ I also do **fullstack** and **cross platform** applications for more than 8 year
 - Miami Activate x Wormhole: Randomness on chain
 
 ## 🛠️ Building / maintaining
-- [The Auditor Toolbox](https://github.com/Deivitto/auditor-docker)
 - [Recon](https://github.com/Recon-Fuzz/)
+- [The Auditor Toolbox](https://github.com/Deivitto/auditor-docker)
+
 
 ## 🕵️ Public Audit Reports
 ### Summary
