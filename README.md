@@ -34,7 +34,7 @@ I also do **fullstack** and **cross platform** applications for more than 8 year
 
 ## 🛠️ Building / maintaining
 - [Recon Web](https://getrecon.xyz/)
-- [Recon](https://github.com/Recon-Fuzz/)
+- [Recon Magic, AI, tools](https://github.com/Recon-Fuzz/)
 - [The Auditor Toolbox](https://github.com/Deivitto/auditor-docker)
 
 
