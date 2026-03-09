@@ -4,9 +4,9 @@ I'm a **Computer engineer** with specialization in **Web2 Security**, **Pentesti
 ## 🕛 Now
 
 I do **BlockSec** (Blockchain Security: EVM, Solana, infra):
-- Security audits for **Spearbit**, **Cantina** & **GetRecon.xyz**. 
+- Fuzzing and building at **[Recon](getrecon.xyz)**.
+- Security audits for **Recon**, **Spearbit**, **Cantina** or **Freelance**. 
 - Judge and triager at **Cantina**. 
-- Fuzzing and building at **GetRecon.xyz**.
 
 **DeFi**, **Vaults**, **Tokens**, **SPL**, **Hooks**, **Lending**, **NFTs**, **Cross chain**, **ZK**, **Hooks**, **Math** & **Fuzzing**/**Invariant testing**. 
 
