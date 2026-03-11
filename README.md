@@ -12,7 +12,7 @@ I do **BlockSec** (Blockchain Security: EVM, Solana, infra):
 
 ## 👤 Background
 
-I also do **fullstack** and **cross platform** applications for more than 8 years. 
+I'm also a Senior **Fullstack** engineer, doing **fullstack* and **cross platform** applications for more than 8 years. 
 
 **CI/CD**, **docker**. **PWA**, **mobile**, **TG bots**, **UX Engineering**, **UX Patterns**, **VSCode extensions**
 
