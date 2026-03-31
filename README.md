@@ -3,7 +3,7 @@ I'm a **Computer engineer** with specialization in **Web2 Security**, **Pentesti
 
 ## 🕛 Now
 
-I do **BlockSec** (Blockchain Security: EVM, Solana, infra):
+I do **BlockSec** (Blockchain Security: EVM, Solana, infra, golang, ZK, c++):
 - Fuzzing and building at **[Recon](https://getrecon.xyz)**.
 - Security audits for **Recon**, **Spearbit**, **Cantina** or **Freelance**. 
 - Judge and triager at **Cantina**. 
