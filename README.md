@@ -40,9 +40,32 @@ I'm also a Senior **Fullstack** dev, doing **fullstack** and **cross platform** 
 
 ## 🕵️ Public Audit Reports
 ### Summary
-Computer Engineer & Smart-contract Auditor specialising in DeFi, L2s ecosystems. 18+ security
-reviews at Spearbit & Cantina ($2B+ TVL helped secure), 25+ contests across C4, Sherlock, Codehawks,
+Computer Engineer & Smart-contract Auditor specialising in DeFi, L2s ecosystems.
+
+$14B+TVL helped secure at ReconFuzz. 18+ security reviews at Spearbit & Cantina ($2B+ TVL helped secure), 25+ contests across C4, Sherlock, Codehawks,
 Cantina, etc. Broad skill set from manual review, invariant fuzzing to gas optimisation. EVM + Solana.
+
+<br>
+
+
+<p align="left">
+  <!-- ReconFuzz -->
+  <img
+    src="https://getrecon.xyz/recon-logo.svg"
+    alt="ReconFuzz"
+    height="48"
+    style="margin:0 12px 12px 0;"
+  />
+</p>
+
+
+
+### [ReconFuzz 🔎](https://getrecon.xyz/team/deivitto)
+
+
+  - [AAVE Labs](https://aave.com): Soon published
+
+<br>
 
 <p align="left">
   <!-- Spearbit -->
@@ -53,6 +76,7 @@ Cantina, etc. Broad skill set from manual review, invariant fuzzing to gas optim
     style="margin:0 12px 12px 0;"
   />
 </p>
+
 
 ### [Spearbit Labs 🐱‍💻](https://spearbit.com/)
   - [Sudoswap V2](https://github.com/spearbit/portfolio/blob/master/pdfs/SudoswapLSSVM2-Spearbit-Security-Review.pdf)
