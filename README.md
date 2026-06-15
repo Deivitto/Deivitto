@@ -304,7 +304,9 @@ Cantina, etc. Broad skill set from manual review, invariant fuzzing to gas optim
 </details>
 
 ## 📫 Contact
-Feel free to DM to [request an audit](https://twitter.com/u/Deivitto) 
+Feel free to DM to [request an audit](https://t.me/anotherdaveok) 
+
+Visit my [portfolio](https://deivitto-blocksec-engineer.vercel.app/)
 
 [![Twitter](https://img.shields.io/badge/-twitter-1D9BF0?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/Deivitto)
 
